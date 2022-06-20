@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Week 1: Initial Perspectives on Research
+title: Week 1
 ---
+
+INITIAL PERSPECTIVES ON RESEARCH
 
 How do I see research now?
 
