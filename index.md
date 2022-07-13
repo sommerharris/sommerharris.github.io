@@ -29,7 +29,7 @@ Some usage scenario examples:
 * Rachel wants to look at the instances of irresponsible AI on a timeline, in order to determine if the impact on specific marginalized populations are growing with time
 
 * Rachel wants to be able to select a small section in the timeline, and zoom in to look at instances of irresponsible AI just in that timeframe, for example, looking at specific dates associated with presidential terms
-*
+
 * Rachel is an AI researcher who wants to compare the domestic versus international impact of US companies irresponsibly using AI (we are trying to come up with any useful use cases that are map specific, or at least using location data.
 
 
