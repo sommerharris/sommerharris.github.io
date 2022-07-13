@@ -20,7 +20,7 @@ You can access his website at [this link](https://johnguerra.co/)
 
 Our research project is on data visualization for irresponsible artificial intelligence data. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite.
 
-[My Final Report](files/finalreport.pdf)
+# [My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
