@@ -15,7 +15,23 @@ You can access his website at [this link](https://johnguerra.co/)
 
 ## About My Project
 
-Our research project is on data visualization for irresponsible artificial intelligence data. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite.
+The general area for our research project is data visualization for instances of irresponsible artificial intelligence. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite.
+
+The specific problem we are working on tackling is that AI in its current state is often unfair, furthers pre-existing societal discrimination, and is difficult to control. Our solution is to build an Irresponsible AI Atlas to track what instances of irresponsible AI actually exist, in order to foster more discussion and action toward accoutnability.
+
+There is a knowledge gap we aim to cover with the AI Atlas, as well as a knowledge gap that we aim to cover in our research. The gap we aim to cover with the AI Atlas is: What instances of Irresponsible AI exist? We want to track all records of them in one place. The gap our research aims to cover is: Can an Interactive Visualization Tool better support the analysis of data from instances of irresponsible AI?
+
+We can explore this question through research on what features have made for successful data visualization tools in this domain, in the past. We will conduct a literature review on best practices. One key to answering this question will be developing specific usage scenarios for a the specific audience that might use our tool. 
+
+Some usage scenario examples:
+* Rachel, a phd student who does research to support AI accountability organizations, wants to be able to view the descriptions of an incident and company responsible, associated with a scatterplot point by clicking on it
+
+* Rachel wants to look at the instances of irresponsible AI on a timeline, in order to determine if the impact on specific marginalized populations are growing with time
+
+* Rachel wants to be able to select a small section in the timeline, and zoom in to look at instances of irresponsible AI just in that timeframe, for example, looking at specific dates associated with presidential terms
+*
+* Rachel is an AI researcher who wants to compare the domestic versus international impact of US companies irresponsibly using AI (we are trying to come up with any useful use cases that are map specific, or at least using location data.
+
 
 ## My Blog
 
