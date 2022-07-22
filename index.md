@@ -9,7 +9,7 @@ I am currently completing my Master's in Computer Science at Northeastern Univer
 
 ## About My Advisor
 
-John John Alexis Guerra Gómez is an Information Visualization Researcher and Engineer. In his own words: "I help people extract insights from their data using interactive infovis and data science. PhD in Computer Science, Assistant Teaching Professor at Northeastern University Bay Area. I conduct research on Visual Analytics, Accessibility, Big data, Human Computer Interaction and Web Development. Formerly at UCBerkeley, Uniandes Colombia, Yahoo Labs, Xerox PARC and DUTO."
+John Alexis Guerra Gómez is an Information Visualization Researcher and Engineer. In his own words: "I help people extract insights from their data using interactive infovis and data science. PhD in Computer Science, Assistant Teaching Professor at Northeastern University Bay Area. I conduct research on Visual Analytics, Accessibility, Big data, Human Computer Interaction and Web Development. Formerly at UCBerkeley, Uniandes Colombia, Yahoo Labs, Xerox PARC and DUTO."
 
 You can access his website at [this link](https://johnguerra.co/)
 
