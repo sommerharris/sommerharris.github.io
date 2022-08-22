@@ -9,8 +9,6 @@ Part of the research project we did this summer was data curation. The dataset w
 'incidentdatabase.ai' dataset. Combined, these are a large dataset and while some of the categories we used were already populated, we needed to manually fill out much
 of the data.
 
-![Our Dataset](our_dataset.png "Our Dataset")
-
 I spent a lot of time this summer adding to the 'date of instance' column in our dataset. Working on this helped me see how fuzzy data curation can be sometimes, and all the 
 choices that go into curating a dataset. We got our date the public found out and information about the AI instance from online articles. Most often the date the public found 
 out was listed as the date the article was published. To determine the date of the instance, sometimes that meant finding the date of occurrence in the article for a very specific
@@ -32,4 +30,3 @@ trying to build, and recognize that even with all the tradeoffs in our data mode
 Another part of the dataset we worked on curating was the taxonomy of class and subclass. This simply consisted of categorizing all the AI instances. We are then able to group our AI 
 instances by what field they are in.
 
-TAXONOMY IMAGE
