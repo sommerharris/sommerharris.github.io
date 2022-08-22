@@ -24,6 +24,6 @@ which inspires much of the motivation behind the project.
 
 * The fourth goal, learning about scrum, we began early on in the summer and were able to practices the principals from it for the rest of the project.
 
-Some questions I asked myself in the first week were do I want to do research? do I understand how one does research? 
+Some questions I asked myself in the first week were do I want to do research? do I understand how one does research? I now feel equipped to ask better, more insightful research questions, and conduct original research in computer science. I am interested in conducting research in general, but still curious about what research looks like when applied to different disciplines.
 
 
