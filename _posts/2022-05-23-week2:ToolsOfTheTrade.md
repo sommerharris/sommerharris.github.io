@@ -3,7 +3,7 @@ layout: post
 title: Week 2
 ---
 
-**Tools**
+**Tools of the Trade**
 
 The main tools we are using in this project are Observable Notebook with D3 and Vega-Lite. The dataset we are curating is stored in excel on googledocs.
 
