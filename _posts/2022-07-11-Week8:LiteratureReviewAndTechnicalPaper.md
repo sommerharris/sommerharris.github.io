@@ -3,6 +3,8 @@ layout: post
 title: Week 8
 ---
 
+**Literature and Technical Paper**
+
 In our literature review and technical paper, we were able to explore elements of storytelling through data visualization, look at best practices, and develop and design the features
 we would build in our own visualization if we had more time.
 
