@@ -15,7 +15,7 @@ In my Master's program, I've had the privilege to work on a few research project
 **What do I hope to get out of this position?**
 
 In this position, my hopes for learning outcomes are:
-1. To be able to articulate what research looks like in the arena data visualization
+1. To be able to articulate what research looks like in the arena of data visualization
 2. Learn some new technical skills, and gain exposure to data viz tools
 3. Learn how a dataset is curated and develop confidence in working with datasets
 4. Learn about how teh agile process can be applied to research
