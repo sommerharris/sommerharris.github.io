@@ -18,7 +18,7 @@ In this position, my hopes for learning outcomes are:
 1. To be able to articulate what research looks like in the arena of data visualization
 2. Learn some new technical skills, and gain exposure to data viz tools
 3. Learn how a dataset is curated and develop confidence in working with datasets
-4. Learn about how teh agile process can be applied to research
+4. Learn about how the agile process can be applied to research
 
 **Where are my biggest hesitancies?**
 
