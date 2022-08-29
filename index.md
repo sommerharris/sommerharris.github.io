@@ -32,6 +32,7 @@ Some usage scenario examples:
 
 * Rachel is an AI researcher who wants to compare the domestic versus international impact of US companies irresponsibly using AI (we are trying to come up with any useful use cases that are map specific, or at least using location data.
 
+[My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
