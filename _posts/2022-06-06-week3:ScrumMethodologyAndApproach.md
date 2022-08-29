@@ -3,7 +3,7 @@ layout: post
 title: Week 3
 ---
 
-**Scrum**
+**Scrum Methodology and Approach**
 
 As part of our research experience, we read JJ Sutherland's "SCRUM: The Art of Doing Twice the Work in Half the Time" as a way to learn more about SCRUM and the Agile process. I have long been curious to find out what is really at the heart of Agile. While I see that reading this book may be only a start, it has already been transformational for my own work, as well as a key focal point in important networking conversations.
 
