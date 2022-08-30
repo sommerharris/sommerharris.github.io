@@ -15,11 +15,14 @@ You can access his website at [this link](https://johnguerra.co/)
 
 ## About My Project
 
-The general area for our research project is data visualization for instances of irresponsible artificial intelligence. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite.
+The general area for our research project is data visualization for instances of irresponsible artificial intelligence. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite. The following interactive tool was built by John, our research advisor, to explore datasets. This tool is an example of what we would aim to build, or at least propose features for, during this project. This instance of the navio is loaded with data from our project, so you can also explore our dataset below.
+
+<iframe width="100%" height="376" frameborder="0"
+  src="https://observablehq.com/embed/2ed9bcdeef401cb3?cells=viewof+selected"></iframe>
 
 The specific problem we are working on tackling is that AI in its current state is often unfair, furthers pre-existing societal discrimination, and is difficult to control. Our solution is to build an Irresponsible AI Atlas to track what instances of irresponsible AI actually exist, in order to foster more discussion and action toward accountability.
 
-There is a knowledge gap we aim to cover with the AI Atlas, as well as a knowledge gap that we aim to cover in our research. The gap we aim to cover with the AI Atlas is: What instances of Irresponsible AI exist? We want to track all records of them in one place. The gap our research aims to cover is: Can an Interactive Visualization Tool better support the analysis of data from instances of irresponsible AI?
+There is a knowledge gap we aim to cover with the AI Atlas, as well as a knowledge gap that we aim to cover in our research. The gap we aim to cover with the AI Atlas is: What instances of Irresponsible AI exist? We want to track all records of them in one place. The gap our research aims to cover is: Can an Interactive Visualization Tool better support the analysis of data from instances of irresponsible AI? 
 
 We can explore this question through research on what features have made for successful data visualization tools in this domain, in the past. We will conduct a literature review on best practices. One key to answering this question will be developing specific usage scenarios for the specific audience that might use our tool. 
 
