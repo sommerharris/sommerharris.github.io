@@ -30,3 +30,8 @@ trying to build, and recognize that even with all the tradeoffs in our data mode
 Another part of the dataset we worked on curating was the taxonomy of class and subclass. This simply consisted of categorizing all the AI instances. We are then able to group our AI 
 instances by what field they are in.
 
+You can explore our data below.
+
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@sommerharris/data?cell=*"></iframe>
+
