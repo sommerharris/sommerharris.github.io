@@ -5,7 +5,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I am currently completing my Master's in Computer Science at Northeastern University in Vancouver, BC. I recieved my undergraduate degree in the Libaral Arts and Sceiences from Quest University Canada in Squamish BC. I previously worked in education and am continuing my passion for inclusive education as a Student Ambassador at Northeastern. I recently completed a co-op as a Software Developer with a local real estate marketing firm in BC, Canada, and look froward to graduating in Spring 2023. Find my linkedin [here](https://www.linkedin.com/in/sommer-harris-824864103/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca)
+I am currently completing my Master's in Computer Science at Northeastern University in Vancouver, BC. I recieved my undergraduate degree in the Liberal Arts and Sciences from Quest University Canada in Squamish BC. I previously worked in education and am continuing my passion for inclusive education as a Student Ambassador at Northeastern. I recently completed a co-op as a Software Developer with a local real estate marketing firm in BC, Canada, and look froward to graduating in December 2023. Find my linkedin [here](https://www.linkedin.com/in/sommer-harris-824864103/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca)
 
 ## About My Advisor
 
